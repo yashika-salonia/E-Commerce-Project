@@ -35,7 +35,7 @@ export const products = [
   },
   {
     id: 3,
-    name: "Kids Cartoon Print T-shirt",
+    name: "Mini Gentleman's Set",
     brand: "Trivanya Junior",
     price: 499,
     originalPrice: 799,
@@ -45,7 +45,7 @@ export const products = [
       "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&h=800&q=80",
       "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&h=800&q=80"
     ],
-    description: "A fun and colorful cartoon print t-shirt for kids. Made from soft cotton that's gentle on your child's skin.",
+    description: "Stylish comfort meets playful charm with this adorable navy blue cardigan and bright blue shorts — perfect for every little adventure!",
     rating: 4.8,
     reviews: 64,
     category: "kids"
@@ -103,7 +103,7 @@ export const products = [
   },
   {
     id: 7,
-    name: "Kids Denim Dungarees",
+    name: "Kids Classic T-shirt",
     brand: "Trivanya Junior",
     price: 899,
     originalPrice: 1499,
@@ -113,7 +113,7 @@ export const products = [
       "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=600&h=800&q=80",
       "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=600&h=800&q=80"
     ],
-    description: "Adorable denim dungarees for kids with adjustable straps and multiple pockets. Durable and comfortable for active kids.",
+    description: "Classic plain T-shirt for kids. Durable and comfortable for active kids.",
     rating: 4.7,
     reviews: 53,
     category: "kids"
@@ -142,10 +142,10 @@ export const products = [
     price: 1299,
     originalPrice: 1999,
     images: [
+      "https://www.fabvoguestudio.com/cdn/shop/files/CR-0-MA01157-110-C.jpg?v=1694862006&width=1800",
+      "https://urbanjaipur.com/wp-content/uploads/2025/02/jpr-wr-1-1-1.jpg",
+      "https://urbanjaipur.com/wp-content/uploads/2024/06/dabu-5.jpg",
       "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=600&h=800&q=80",
-      "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=600&h=800&q=80",
-      "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=600&h=800&q=80",
-      "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=600&h=800&q=80"
     ],
     description: "Beautiful printed cotton bedsheet with 2 pillow covers. Made from 100% cotton for a comfortable sleep experience.",
     rating: 4.6,
@@ -176,10 +176,7 @@ export const products = [
     price: 999,
     originalPrice: 1799,
     images: [
-      "https://images.unsplash.com/photo-1623609163859-ca93c959b5b8?auto=format&fit=crop&w=600&h=800&q=80",
-      "https://images.unsplash.com/photo-1623609163859-ca93c959b5b8?auto=format&fit=crop&w=600&h=800&q=80",
-      "https://images.unsplash.com/photo-1623609163859-ca93c959b5b8?auto=format&fit=crop&w=600&h=800&q=80",
-      "https://images.unsplash.com/photo-1623609163859-ca93c959b5b8?auto=format&fit=crop&w=600&h=800&q=80"
+      "https://postimage.me/images/2025/04/28/ChatGPT-Image-Apr-28-2025-10_27_49-PM.png"
     ],
     description: "Light and breezy summer dress with a flattering cut. Perfect for warm days and casual outings.",
     rating: 4.5,
@@ -188,7 +185,7 @@ export const products = [
   },
   {
     id: 12,
-    name: "Kids Winter Jacket",
+    name: "Kids Winter Shoes",
     brand: "Trivanya Junior",
     price: 1299,
     originalPrice: 2299,
@@ -198,7 +195,7 @@ export const products = [
       "https://images.unsplash.com/photo-1604671801908-6f0c6a092c05?auto=format&fit=crop&w=600&h=800&q=80",
       "https://images.unsplash.com/photo-1604671801908-6f0c6a092c05?auto=format&fit=crop&w=600&h=800&q=80"
     ],
-    description: "Warm and cozy winter jacket for kids with water-resistant outer layer and soft inner lining.",
+    description: "Warm and cozy winter shoes for kids with water-resistant outer layer and soft inner lining.",
     rating: 4.7,
     reviews: 78,
     category: "kids"
@@ -210,6 +207,7 @@ export const products = [
     price: 1599,
     originalPrice: 2799,
     images: [
+      "https://www.fabvoguestudio.com/cdn/shop/files/91.1.jpg?v=1732009617&amp;width=1080",
       "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?auto=format&fit=crop&w=600&h=800&q=80",
       "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?auto=format&fit=crop&w=600&h=800&q=80",
       "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?auto=format&fit=crop&w=600&h=800&q=80",
